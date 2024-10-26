@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p metapreg Fixed and random effects meta-analysis and meta-regression of proportions Use metapreg With STATA 18
