@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'metapreg': Fixed and random effects meta-analysis and meta-regression of proportions Use metapreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lmetapreg.mlib
+f metapreg.ado
+f metapreg.sthlp
+f metapreg_examples.ado
