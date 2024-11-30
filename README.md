@@ -3,6 +3,8 @@ Fixed and random effects meta-analysis and meta-regression of proportions Use me
 
 Fixed-effects, random-effects and mixed-effects meta-analysis, meta-regression and network meta-analysis of proportions with binomial distribution and logit, loglog and cloglog links Use metapreg With STATA 18
 
+https://www.youtube.com/watch?v=8D0z3ysVyLo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
